@@ -1,14 +1,14 @@
 body {
     padding: 0;
     margin: 0;
-    background: #eefa42;
+    background: #2e2586;
   }
   .navbar {
     background:#eefa42;
   }
   .nav-link,
   .navbar-brand {
-    color: #3e32af;
+    color: #2e2586;
     cursor: pointer;
   }
   .nav-link {
